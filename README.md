@@ -16,12 +16,11 @@ Servo mótorinn er komin á hausinn og það er byrjað á höndunum
 
 ![image_2022-10-16_215011502](https://user-images.githubusercontent.com/111759185/196059921-2dbd146f-809e-4659-898a-e0a23ab2de14.png)
 
-
+Þetta er hljóð korta lesari og þar eru öll hljóð skjölinn okkar
 
 ![image_2022-10-16_223434554](https://user-images.githubusercontent.com/111759185/196061661-13e1803c-7ec4-451d-9c4d-a47769887352.png)
 
 Það var búið til sketch á arduino og gáð hvort það virkaði svo við gátum lóðað það.
-
 
 ![image_2022-10-16_224351596](https://user-images.githubusercontent.com/111759185/196061972-4cb45c16-4802-40f2-8c71-e58fb4187b1f.png)
 
@@ -31,9 +30,12 @@ hérna er sindri að lóða alla víra þar sem þeir eiga að fara
 
 það er búið að festa búkann við standinn og það er hægt að hreyfa hann fram og til baka
 
-
 ![image_2022-10-16_224519006](https://user-images.githubusercontent.com/111759185/196062019-8a68bc63-f1ee-4753-b125-7d5e19790a10.png)
 
 það er nú kominn mótor á líkaman sem hreyfir búkinn fram og til baka
+
+![image_2022-10-16_230019079](https://user-images.githubusercontent.com/111759185/196062615-6c3ae307-2551-411f-9de3-843b2124e0c8.png)
+
+þegar við vorum að prófa augun og gá hvort að þau virkuðu þá gleymdum við að setja viðnám og augað sprakk
 
 
