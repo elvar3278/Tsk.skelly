@@ -17,6 +17,7 @@ Servo mótorinn er komin á hausinn og það er byrjað á höndunum
 ![image_2022-10-16_215011502](https://user-images.githubusercontent.com/111759185/196059921-2dbd146f-809e-4659-898a-e0a23ab2de14.png)
 
 
+
 ![image_2022-10-16_223434554](https://user-images.githubusercontent.com/111759185/196061661-13e1803c-7ec4-451d-9c4d-a47769887352.png)
 
 Það var búið til sketch á arduino og gáð hvort það virkaði svo við gátum lóðað það.
